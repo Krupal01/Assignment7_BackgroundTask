@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CityFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        style="@style/Par_wPhCts35"
+        android:text="City :"
+        android:id="@+id/tvCityName" />
+    <TextView
+        style="@style/Par_wPhCts25"
+        android:text="temp :"
+        android:id="@+id/tvTemp" />
+    <TextView
+        style="@style/Par_wPhCts25"
+        android:text="Humidity :"
+        android:id="@+id/tvHumidity" />
+    <TextView
+        style="@style/Par_wPhCts25"
+        android:text="rain chances :"
+        android:id="@+id/tvRainChances" />
+    <TextView
+        style="@style/Par_wPhCts25"
+        android:text="Wind :"
+        android:id="@+id/tvWind" />
+    <TextView
+        style="@style/Par_wPhCts25"
+        android:text="Battery Power :"
+        android:id="@+id/tvBattery" />
+
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AsyncTaskAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <style name="Par_wPhCts25">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+    <style name="Par_wPhCts35">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">35dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+</resources>
