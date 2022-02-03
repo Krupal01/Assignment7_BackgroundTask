@@ -29,6 +29,7 @@
         android:id="@+id/tvWind" />
     <TextView
         style="@style/Par_wPhCts25"
+        android:drawableStart="@drawable/ic_baseline_battery_charging_full_24"
         android:text="Battery Power :"
         android:id="@+id/tvBattery" />
 
